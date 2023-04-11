@@ -1,0 +1,23 @@
+efp 1 2 y n
+rep 2
+1 SI 10240
+1 WDW EM
+1 LB 1
+1 TDeff 512	
+1 ME_mod no
+1 NCOEF 0
+1 LPBIN 0
+1 ABSG 5
+1 BCFW 1.5
+1 COROFFS -6181.65
+1 BC_mod qfil
+1 PH_mod pk
+1 SIGF1 13.48
+1 SIGF2 13.36
+1 NOISF2 15
+1 NOISF1 16
+PHC0 0
+PHC1 13.253
+efp 1 2 y n
+absn
+convbin2asc
